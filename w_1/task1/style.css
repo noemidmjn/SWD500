@@ -1,0 +1,14 @@
+#wrapper {
+    width: 100vw;
+    overflow: auto;
+    background-color: #fff;
+}
+
+#left_nav {
+    float: left;
+    width: 20%;
+}
+
+#section {
+    width: 80%;
+}

@@ -1,0 +1,18 @@
+h1 { color : blue; font-size: 200% } 
+#para1 { background-color: yellow }
+.para1 { background-color: yellow }
+#wrapper{
+    width: 80%
+    }
+    #box1 {
+         width: 20%;
+         float: left;
+         color: white;
+         background-color: lightblue;
+    }
+    #box2 {   
+       width: 20%;
+       float: right;   
+       color: white;
+       background-color: lightpink;
+    }
